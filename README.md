@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/ydIgFkY.png" alt="Cat Dog Recognition System">
+  ![Unknown](https://user-images.githubusercontent.com/105519854/227733154-9df08da0-c655-40f9-bdb1-2f24d930ddb6.jpeg)
+
+
 </h1>
 
 <p align="center">
