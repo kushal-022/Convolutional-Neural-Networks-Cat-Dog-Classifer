@@ -1,5 +1,8 @@
 <p align="center">
-  ![Unknown](https://user-images.githubusercontent.com/105519854/227733250-b8f283da-8829-46a9-b40d-9fbe44bd55a9.jpeg)
+  <img src="https://user-images.githubusercontent.com/105519854/227733250-b8f283da-8829-46a9-b40d-9fbe44bd55a9.jpeg" alt="Unknown">
+</p>
+
+<p align="center">
   <strong>Convolutional Neural Networks for Cat Dog Recognition</strong><br>
   A deep learning model to classify images of cats and dogs with high accuracy.
 </p>
