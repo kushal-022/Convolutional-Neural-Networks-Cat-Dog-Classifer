@@ -1,9 +1,4 @@
-<h1 align="center">
-  ![Unknown](https://user-images.githubusercontent.com/105519854/227733188-a36c1a26-8191-4c4c-b942-3735538a9b96.jpeg)
-
-
-
-</h1>
+![Unknown](https://user-images.githubusercontent.com/105519854/227733250-b8f283da-8829-46a9-b40d-9fbe44bd55a9.jpeg)
 
 <p align="center">
   <strong>Convolutional Neural Networks for Cat Dog Recognition</strong><br>
